@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 I'm Shubham Mehta<br>**B.Tech CSE Student (2025) | AI & CV Researcher**<br><br>I build end-to-end AI solutions from research to deployment. <br><br>- 🤖 Specializing in: Computer Vision & CNNs.<br>- 📑 Published Research: IEEE Global AI Summit (Autonomous Driving).<br>- 🛠 Languages: Python, C++, SQL.<br>- 💼 Experience: RIMSPL, IBM, DevTown.<br><br><br>
+# 👋 I'm Shubham Mehta<br>**B.Tech CSE @ UPES (2025) | AI & CV Researcher**<br><br>- 🤖 **Focus:** Computer Vision, CNNs & Deep Learning.<br>- 📑 **Research:** IEEE AI Summit (Autonomous Driving & CV).<br>- 🛠 **Tech:** Python, C++, SQL, TensorFlow, OpenCV.<br>- 💼 **Intern:** RIMSPL, IBM, DevTown.<br><br><br>
 
 
 ## 🌐 Socials:
